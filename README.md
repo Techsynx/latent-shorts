@@ -27,7 +27,7 @@ Fork the repository: git fork https://github.com/.git
 Create a new branch: git checkout -b my-feature
 Make your changes and commit them: git commit -m "Added new feature"
 Push your changes: git push origin my-feature
-Create a pull request: https://github.com//pulls
+Create a pull request: https://github.com//pulls not in thye box
 License
 [Repo Name] is licensed under the [MIT/GPL/etc.] license.
 
