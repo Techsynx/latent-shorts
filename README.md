@@ -47,7 +47,7 @@ Welcome to **Latent Shorts**, a project designed to generate short clips or segm
 
 | Example Output | Interactive image Code |
 |----------------|------------------------|
-| Example image(![image](https://github.com/user-attachments/assets/23d74c09-5154-48ee-a728-6f6f062ecc1e) | Interactive image[image](https://github.com/user-attachments/assets/b1c93c26-553a-4564-afaf-0a8895aab5c8)
+| Example image![image](https://github.com/user-attachments/assets/23d74c09-5154-48ee-a728-6f6f062ecc1e) | Interactive image![image](https://github.com/user-attachments/assets/b1c93c26-553a-4564-afaf-0a8895aab5c8)
 
 
 ---
