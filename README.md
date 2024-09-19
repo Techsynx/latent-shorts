@@ -1,4 +1,3 @@
-To generate the perfect README file for your GitHub repository "latent-shorts", I'll include relevant sections with SVG badges/icons and key information that makes the project engaging. Here's a detailed suggestion:
 
 ---
 
@@ -48,7 +47,9 @@ Welcome to **Latent Shorts**, a project designed to generate short clips or segm
 
 | Example Output | Interactive Music Code |
 |----------------|------------------------|
-| ![Example Video](https://github.com/Techsynx/latent-shorts/blob/main/file.png) | ![Interactive Music](https://github.com/Techsynx/latent-shorts/blob/main/WhatsApp%20Image%202024-09-02%20at%2008.09.19.jpeg) |
+| ![Example Video](![image](https://github.com/user-attachments/assets/23d74c09-5154-48ee-a728-6f6f062ecc1e)
+) | ![Interactive Music](![image](https://github.com/user-attachments/assets/b1c93c26-553a-4564-afaf-0a8895aab5c8)
+) |
 
 ---
 
