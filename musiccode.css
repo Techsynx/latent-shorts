@@ -1,0 +1,79 @@
+/* styles.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: url('https://media.istockphoto.com/id/1131872709/photo/headphones-and-old-audio-cassette-on-yellow-background.jpg?s=1024x1024&w=is&k=20&c=i0o6wFXaMPOMuTRy5X2j8GW0wMSXgBaH4_8yg0_Ijf0=') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.music-player {
+    width: 350px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 20px;opacity: 80%;
+    backdrop-filter: blur(10px);
+}
+
+.cover img {height: 200px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.info {
+    margin: 20px 0;
+    color: #fff;
+}
+
+.info h2, .info h3 {
+    margin: 5px 0;
+}
+
+.progress-container {
+    width: 100%;
+    background: #a30185;
+    height: 5px;
+    border-radius: 5px;
+    margin: 10px 0;
+    overflow: hidden;
+}
+
+.progress {
+    background: #ff4b2b;
+    height: 100%;
+    width: 0;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.btn {
+    background: #d72202;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 50px;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.btn:hover {
+    background: #000000;
+}
+
+.volume-container {
+    margin-top: 10px;
+}
+
+.volume-container input {
+    width: 100%;
+}
